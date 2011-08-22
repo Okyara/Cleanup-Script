@@ -1,4 +1,5 @@
 #!/bin/bash
+# Oksana's cleaning script 
 #The cron would be:
 # 0 0 1,10,20 * * root cleanup.sh
          vals='/home/v-okyare'
